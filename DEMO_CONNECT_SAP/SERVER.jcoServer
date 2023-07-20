@@ -1,0 +1,7 @@
+#for tests only !
+#Fri Jul 14 09:47:58 CST 2023
+jco.server.connection_count=2
+jco.server.gwhost=10.0.3.10
+jco.server.progid=LDKJCO
+jco.server.gwserv=sapgw00
+jco.server.repository_destination=ABAP_AS_WITH_POOL

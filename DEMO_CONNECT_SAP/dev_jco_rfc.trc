@@ -1,0 +1,200 @@
+
+**** Error file opened at 20230714 094759 China Standard Time Rel. 3.0.16 (2016-12-06) [721.800]
+Error:  >Fri Jul 14 09:47:59,193<    
+>RfcIoException:
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+LOCATION    SAP-Gateway on host ERPDEVAP1 / sapgw00
+ERROR       registration of tp LDKJCO from host ??? not allowed
+TIME        Fri Jul 14 09:47:59 2023
+RELEASE     742
+COMPONENT   SAP-Gateway
+VERSION     2
+RC          720
+MODULE      /bas/742_REL/src/krn/si/gw/gwxxrd.c
+LINE        3614
+COUNTER     149909
+
+    Return code: RFCIO_ERROR_REGISTRATION_DENIED(35)<
+
+
+
+Error:  >Fri Jul 14 09:47:59,195<    
+>RfcIoException:
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+LOCATION    SAP-Gateway on host ERPDEVAP1 / sapgw00
+ERROR       registration of tp LDKJCO from host ??? not allowed
+TIME        Fri Jul 14 09:47:59 2023
+RELEASE     742
+COMPONENT   SAP-Gateway
+VERSION     2
+RC          720
+MODULE      /bas/742_REL/src/krn/si/gw/gwxxrd.c
+LINE        3614
+COUNTER     149912
+
+    Return code: RFCIO_ERROR_REGISTRATION_DENIED(35)<
+
+
+
+
+**** Error file opened at 20230714 100018 China Standard Time Rel. 3.0.16 (2016-12-06) [721.800]
+Error:  >Fri Jul 14 10:00:18,874<    
+>RfcIoException:
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+LOCATION    SAP-Gateway on host ERPDEVAP1 / sapgw00
+ERROR       registration of tp LDKJCO from host ??? not allowed
+TIME        Fri Jul 14 10:00:19 2023
+RELEASE     742
+COMPONENT   SAP-Gateway
+VERSION     2
+RC          720
+MODULE      /bas/742_REL/src/krn/si/gw/gwxxrd.c
+LINE        3614
+COUNTER     149922
+
+    Return code: RFCIO_ERROR_REGISTRATION_DENIED(35)<
+
+
+
+Error:  >Fri Jul 14 10:00:18,876<    
+>RfcIoException:
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+LOCATION    SAP-Gateway on host ERPDEVAP1 / sapgw00
+ERROR       registration of tp LDKJCO from host ??? not allowed
+TIME        Fri Jul 14 10:00:19 2023
+RELEASE     742
+COMPONENT   SAP-Gateway
+VERSION     2
+RC          720
+MODULE      /bas/742_REL/src/krn/si/gw/gwxxrd.c
+LINE        3614
+COUNTER     149925
+
+    Return code: RFCIO_ERROR_REGISTRATION_DENIED(35)<
+
+
+
+
+**** Error file opened at 20230714 100100 China Standard Time Rel. 3.0.16 (2016-12-06) [721.800]
+Error:  >Fri Jul 14 10:01:00,099<    
+>RfcIoException:
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+LOCATION    SAP-Gateway on host ERPDEVAP1 / sapgw00
+ERROR       registration of tp LDKJCO from host ??? not allowed
+TIME        Fri Jul 14 10:01:00 2023
+RELEASE     742
+COMPONENT   SAP-Gateway
+VERSION     2
+RC          720
+MODULE      /bas/742_REL/src/krn/si/gw/gwxxrd.c
+LINE        3614
+COUNTER     149930
+
+    Return code: RFCIO_ERROR_REGISTRATION_DENIED(35)<
+
+
+
+Error:  >Fri Jul 14 10:01:00,104<    
+>RfcIoException:
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+LOCATION    SAP-Gateway on host ERPDEVAP1 / sapgw00
+ERROR       registration of tp LDKJCO from host ??? not allowed
+TIME        Fri Jul 14 10:01:00 2023
+RELEASE     742
+COMPONENT   SAP-Gateway
+VERSION     2
+RC          720
+MODULE      /bas/742_REL/src/krn/si/gw/gwxxrd.c
+LINE        3614
+COUNTER     149933
+
+    Return code: RFCIO_ERROR_REGISTRATION_DENIED(35)<
+
+
+
+
+**** Error file opened at 20230714 100708 China Standard Time Rel. 3.0.16 (2016-12-06) [721.800]
+Error:  >Fri Jul 14 10:07:08,474<    
+>RfcIoException:
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+LOCATION    SAP-Gateway on host ERPDEVAP1 / sapgw00
+ERROR       registration of tp LDKJCO from host ??? not allowed
+TIME        Fri Jul 14 10:07:09 2023
+RELEASE     742
+COMPONENT   SAP-Gateway
+VERSION     2
+RC          720
+MODULE      /bas/742_REL/src/krn/si/gw/gwxxrd.c
+LINE        3614
+COUNTER     149944
+
+    Return code: RFCIO_ERROR_REGISTRATION_DENIED(35)<
+
+
+
+Error:  >Fri Jul 14 10:07:08,476<    
+>RfcIoException:
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+LOCATION    SAP-Gateway on host ERPDEVAP1 / sapgw00
+ERROR       registration of tp LDKJCO from host ??? not allowed
+TIME        Fri Jul 14 10:07:09 2023
+RELEASE     742
+COMPONENT   SAP-Gateway
+VERSION     2
+RC          720
+MODULE      /bas/742_REL/src/krn/si/gw/gwxxrd.c
+LINE        3614
+COUNTER     149947
+
+    Return code: RFCIO_ERROR_REGISTRATION_DENIED(35)<
+
+
+
+
+**** Error file opened at 20230714 100855 China Standard Time Rel. 3.0.16 (2016-12-06) [721.800]
+Error:  >Fri Jul 14 10:08:55,585<    
+>RfcIoException:
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+LOCATION    SAP-Gateway on host ERPDEVAP1 / sapgw00
+ERROR       registration of tp LDKJCO from host ??? not allowed
+TIME        Fri Jul 14 10:08:56 2023
+RELEASE     742
+COMPONENT   SAP-Gateway
+VERSION     2
+RC          720
+MODULE      /bas/742_REL/src/krn/si/gw/gwxxrd.c
+LINE        3614
+COUNTER     149955
+
+    Return code: RFCIO_ERROR_REGISTRATION_DENIED(35)<
+
+
+
+Error:  >Fri Jul 14 10:08:55,589<    
+>RfcIoException:
+    message: CPIC-CALL: SAP_CMACCPTP3 on convId:         
+
+LOCATION    SAP-Gateway on host ERPDEVAP1 / sapgw00
+ERROR       registration of tp LDKJCO from host ??? not allowed
+TIME        Fri Jul 14 10:08:56 2023
+RELEASE     742
+COMPONENT   SAP-Gateway
+VERSION     2
+RC          720
+MODULE      /bas/742_REL/src/krn/si/gw/gwxxrd.c
+LINE        3614
+COUNTER     149952
+
+    Return code: RFCIO_ERROR_REGISTRATION_DENIED(35)<
+
+
+
